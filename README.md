@@ -10,7 +10,22 @@ ____
 ## How to run
 
 `First step`: run script in directory you want and select your language
-![Screenshot_20220608_012124](https://user-images.githubusercontent.com/42814077/172493732-847ce31f-a88e-4706-ba9d-6d1229acf3d9.jpg)
+![First step](https://user-images.githubusercontent.com/42814077/172493732-847ce31f-a88e-4706-ba9d-6d1229acf3d9.jpg)
 
-Second step: paste your auth-token (I steal it lmfao)
+`Second step`: paste your auth-token (i steal it lmfao)
+![Second step](https://user-images.githubusercontent.com/42814077/172494226-9d93b4dd-4a88-42e8-a6b9-5fc37853eab0.jpg)
 
+`Third step`: enjoy. Just don't use `Ctrl`+`C` cuz that say for python `stop`
+![Third step](https://user-images.githubusercontent.com/42814077/172494231-2391a256-5e89-41e7-ac6b-ddf80e0eff29.png)
+
+____
+## Result
+
+![Result](https://user-images.githubusercontent.com/42814077/172494234-b036fb9b-31be-4a48-9707-2c23adfb45a3.png)
+
+____
+## For VDS/VPS
+
+If you wanna use it there then you should be use `screen` with `-S` parameter and take `any_name`
+
+For hide screen but don't close n stop script use `Ctrl` + `A` + `D`
