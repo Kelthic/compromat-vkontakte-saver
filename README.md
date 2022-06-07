@@ -28,4 +28,6 @@ ____
 
 If you wanna use it there then you should be use `screen` with `-S` parameter and take `any_name`
 
+![tutorial](https://user-images.githubusercontent.com/42814077/172495509-0ab600e8-aa35-448b-8c8a-b75a2910a7ea.jpg)
+
 For hide screen but don't close n stop script use `Ctrl` + `A` + `D`
