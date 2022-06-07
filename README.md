@@ -31,3 +31,7 @@ If you wanna use it there then you should be use `screen` with `-S` parameter an
 ![tutorial](https://user-images.githubusercontent.com/42814077/172495509-0ab600e8-aa35-448b-8c8a-b75a2910a7ea.jpg)
 
 For hide screen but don't close n stop script use `Ctrl` + `A` + `D`
+
+____
+## Genius move
+<p align="center">If you want give me your money for simple code: <a href="https://boosty.to/kelthic">amogus</a></p>
