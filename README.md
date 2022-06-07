@@ -1,2 +1,3 @@
-# Compromat-VKontakte-VK-
-Script to user profile for save every message from users who sent any text. 
+## Compromat VKontakte
+____
+`Script` for VKontakte (short aka `VK`).
