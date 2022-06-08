@@ -6,6 +6,8 @@ This `script` be write every messages from dialogs when it (script) worked in `f
 
 All actual questions you can find [![here](https://img.shields.io/github/issues/Kelthic/Compromat-VKontakte-VK-?color=7777df&label=here&style=flat-square)](https://github.com/Kelthic/Compromat-VKontakte-VK-/issues)
 
+Compability: ![https://img.shields.io/badge/Python-3.0%2B-9985FF](https://img.shields.io/badge/Python-3.0%2B-9985FF)
+
 ____
 ## How to run
 
