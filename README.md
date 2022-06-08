@@ -37,4 +37,7 @@ ____
 <p align="center">If you want give me your money for simple code: <a href="https://boosty.to/kelthic">amogus</a></p>
 
 ## Final Version
-<p align="center"><a href="https://github.com/Kelthic/Compromat-VKontakte-VK-/releases/tag/FEB">tap me please~</a></p>
+[![here](https://img.shields.io/badge/tap-me~-e0115f)](https://github.com/Kelthic/Compromat-VKontakte-VK-/releases/tag/FEB)
+
+
+
