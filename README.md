@@ -38,8 +38,3 @@ ____
 ## Genius move
 <p align="center">If you want give me your money for simple code: <a href="https://boosty.to/kelthic">amogus</a></p>
 
-## Final Version
-[![here](https://github.com/Kelthic/Compromat-VKontakte-VK-/releases/tag/Latest)](https://img.shields.io/badge/tap-me~-e0115f)
-
-
-
