@@ -1,4 +1,4 @@
-## Compromat VKontakte
+## Compromat VKontakte Saver
 ____
 <p align="center"><b>Script</b> for VKontakte (<i>short aka <b>VK</b></i>).</p>
 
